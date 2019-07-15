@@ -8,5 +8,5 @@ Repositório do projeto -> https://github.com/msvieiraweb/qrcode-pdf-itext
 - Clonar repositório.
 - Importar o projeto em uma IDE
 - Configurar as constantes com o caminho de diretório do arquivo INPUTFILE e OUTPUTFILE.
-- E executar a classe CreateNewPdf.main.
+- E executar a classe CreateNewPdf.
   
